@@ -32,7 +32,7 @@ else if (countA<countB){
 
 }
 else if (countA==countB){
-    cout<<"FRIENDSHIP"<<endl;
+    cout<<"Friendship"<<endl;
 }
 return 0;
 }
